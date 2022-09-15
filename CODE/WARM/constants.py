@@ -1,0 +1,10 @@
+START_OP = 0
+END_OP = 1
+OPERATOR_DICT = {START_OP: "Start Operator", END_OP: "End Operator", 2: "+", 3: "-", 4: "*", 5: "/", 6: "^"}
+PAD = 0
+UNK = 1
+BOS = 2
+EOS = 3
+NUM = 4
+MATH23K_MAXNUM = 18
+MATH23K_CONSTANTS = [1.0, 3.14, 100]
