@@ -32,3 +32,6 @@ Answer: 11.0
 * **Mensuration**
 * **Proportions**
 * **Linear Equations** 
+
+##CODE
+Code is not so clean yet. Working on getting it structured
